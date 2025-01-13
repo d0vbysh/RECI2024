@@ -1,0 +1,6 @@
+// * Legends *
+arr       : Value of the 'arr' parameter
+Mean      : Arithmetic mean of all measurements
+StdDev    : Standard deviation of all measurements
+Median    : Value separating the higher half of all measurements (50th percentile)
+1 us      : 1 Microsecond (0.000001 sec)
